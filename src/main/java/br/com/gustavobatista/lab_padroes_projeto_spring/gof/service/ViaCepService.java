@@ -1,10 +1,10 @@
-package br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service;
+package br.com.gustavobatista.lab_padroes_projeto_spring.gof.service;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.Endereco;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.Endereco;
 
 @FeignClient(name = "viacep", url = "https://viacep.com.br/ws")
 public interface ViaCepService {

@@ -1,6 +1,6 @@
-package br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service;
+package br.com.gustavobatista.lab_padroes_projeto_spring.gof.service;
 
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.Cliente;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.Cliente;
 
 public interface ClienteService {
 

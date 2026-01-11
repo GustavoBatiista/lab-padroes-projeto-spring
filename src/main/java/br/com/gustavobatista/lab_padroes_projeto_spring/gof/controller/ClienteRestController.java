@@ -1,9 +1,9 @@
-package br.com.gustavobatista.lab_padraoes_projeto_spring.gof.controller;
+package br.com.gustavobatista.lab_padroes_projeto_spring.gof.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.Cliente;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service.ClienteService;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.Cliente;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.service.ClienteService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

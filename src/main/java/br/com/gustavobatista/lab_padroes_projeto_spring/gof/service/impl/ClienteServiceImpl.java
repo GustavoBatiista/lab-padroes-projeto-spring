@@ -1,16 +1,16 @@
-package br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service.impl;
+package br.com.gustavobatista.lab_padroes_projeto_spring.gof.service.impl;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.Cliente;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.ClienteRepository;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.Endereco;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.model.EnderecoRepository;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service.ClienteService;
-import br.com.gustavobatista.lab_padraoes_projeto_spring.gof.service.ViaCepService;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.Cliente;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.ClienteRepository;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.Endereco;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.model.EnderecoRepository;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.service.ClienteService;
+import br.com.gustavobatista.lab_padroes_projeto_spring.gof.service.ViaCepService;
 
 
 
