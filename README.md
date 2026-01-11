@@ -95,5 +95,3 @@ Não foram adicionadas novas regras de negócio ou funcionalidades extras
 Gustavo Batista
 
 Projeto desenvolvido a partir de laboratório educacional, com pequenas melhorias técnicas aplicadas para fins de estudo e portfólio.
-
-Projeto desenvolvido a partir de laboratório educacional, com pequenas melhorias técnicas aplicadas para fins de estudo e portfólio.
